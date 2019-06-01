@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
-
+//POM Example with page factory method
 public class EdurekaSignInPage {
 	
 	WebDriver driver;
